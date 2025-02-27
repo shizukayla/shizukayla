@@ -4,9 +4,6 @@
 * Freshman in NYU Tandon for Computer Science💻
 * 
 
-<h1 align="center">Hi, I'm Kayla Zhang</h1>
-<h3 align="center">Freshman in NYU Tandon Computer Science</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
