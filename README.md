@@ -1,5 +1,4 @@
 # Kayla Zhang  
-***
   Computer Science student @ NYU Tandon
 
 
