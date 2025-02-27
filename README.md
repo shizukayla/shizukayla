@@ -1,4 +1,8 @@
-## Hi there 👋
+# Kayla Zhang  
+***
+  Computer Science student @ NYU Tandon
+
+
 
 <!--
 **shizukayla/shizukayla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
