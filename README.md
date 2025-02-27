@@ -1,6 +1,6 @@
 # Kayla Zhang  
-  Computer Science student @ NYU Tandon
-Hello,大家好，我是果冻虾仁。
+Computer Science student @ NYU Tandon
+
 
 
 <!--
